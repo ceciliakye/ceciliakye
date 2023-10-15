@@ -3,7 +3,11 @@
 <!--
 **ceciliakye/ceciliakye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<<<<<<< HEAD
+Cecilia Kye
+=======
 Here are some ideas to get you started:
+>>>>>>> parent of b76bd8d (Add name to README.md)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
